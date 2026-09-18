@@ -1,2 +1,2 @@
-flask
-google-genai
+Flask>=2.2,<2.3
+python-dotenv>=0.21,<1.0
